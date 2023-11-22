@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "bucket1" {
-	bucket = "diwaa31-first-bucket"
+	bucket = "diwa31-first-bucket"
 }
 
 resource "aws_s3_bucket" "bucket2" {
